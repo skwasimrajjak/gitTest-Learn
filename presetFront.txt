@@ -1,0 +1,14 @@
+This doesnt mean anything.
+Its just for experimental purposes.
+
+Just Remember:
+Pull and Merge:
+
+git init
+//fork the repo
+git pull [link]
+//change in file
+git add .
+git commit -m "message"
+git remote add origin [link]
+git push -u origin master
