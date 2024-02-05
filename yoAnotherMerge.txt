@@ -1,0 +1,11 @@
+Just to Merge. No personal feeling.
+
+Pull and Merge:
+git init
+//fork the repo
+git pull [link]
+//change in file
+git add .
+git commit -m "message"
+git remote add origin [link]
+git push -u origin master
